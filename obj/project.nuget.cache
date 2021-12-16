@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ST0EOscxWRtsyPDmm+lXiwz4Yx0J/xvHwFdFPymE+6gewSKk8oWnSVzoq8qSEmpISmgHyCFswGl2J7HHE64xuQ==",
+  "success": true,
+  "projectFilePath": "/Users/andreus/programador/BootCampTake/series/DIO.Series/DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "/Users/andreus/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

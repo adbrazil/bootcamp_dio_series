@@ -1,0 +1,16 @@
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
+/Users/andreus/programador/BootCampTake/series/DIO.Series/bin/Debug/net5.0/DIO.Series
+/Users/andreus/programador/BootCampTake/series/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
